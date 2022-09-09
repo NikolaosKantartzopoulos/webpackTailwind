@@ -1,7 +1,7 @@
 {
-  "name": "restaurantpage2",
+  "name": "webpackTailwind",
   "version": "1.0.0",
-  "description": "### npm install and setup",
+  "description": "Setup Webpack with tailwind",
   "main": "postcss.config.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NikolaosKantartzopoulos/restaurantPage2.git"
+    "url": "git+https://github.com/NikolaosKantartzopoulos/webpackTailwind.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/NikolaosKantartzopoulos/restaurantPage2/issues"
+    "url": "https://github.com/NikolaosKantartzopoulos/webpackTailwind/issues"
   },
-  "homepage": "https://github.com/NikolaosKantartzopoulos/restaurantPage2#readme",
+  "homepage": "https://github.com/NikolaosKantartzopoulos/webpackTailwind#readme",
   "devDependencies": {
     "css-loader": "^6.7.1",
     "postcss": "^8.4.16",
